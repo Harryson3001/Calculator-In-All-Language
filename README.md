@@ -1,6 +1,6 @@
-# Calculator In All Languages
+# Calculadora em Todas as Linguagens
 
-A growing collection of calculator implementations across multiple programming languages.
+Uma coleção em crescimento de calculadoras implementadas em várias linguagens de programação.
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -8,13 +8,13 @@ A growing collection of calculator implementations across multiple programming l
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-## Overview
+## Visão Geral
 
-This repository is a learning project built to compare how different languages solve the same basic problem: a calculator with common arithmetic operations.
+Este repositório é um projeto de aprendizado feito para comparar como diferentes linguagens resolvem o mesmo problema básico: uma calculadora com operações aritméticas comuns.
 
-It is simple on purpose, but useful for practicing syntax, input handling, control flow, and basic error handling across languages.
+Ele é simples de propósito, mas ajuda a praticar sintaxe, entrada de dados, fluxo de controle e tratamento básico de erros em várias linguagens.
 
-## Included Languages
+## Linguagens Incluídas
 
 - C++
 - Java
@@ -22,17 +22,17 @@ It is simple on purpose, but useful for practicing syntax, input handling, contr
 - PHP
 - Python
 
-## Features
+## Recursos
 
-- Addition.
-- Subtraction.
-- Multiplication.
-- Division.
-- Division-by-zero check.
-- Console-based input and output.
-- Same idea implemented in different languages.
+- Soma.
+- Subtração.
+- Multiplicação.
+- Divisão.
+- Verificação de divisão por zero.
+- Entrada e saída pelo terminal.
+- Mesma ideia implementada em diferentes linguagens.
 
-## Run Examples
+## Exemplos de Execução
 
 ### Java
 
@@ -66,14 +66,14 @@ g++ Calculadora.cpp -o calculadora
 ./calculadora
 ```
 
-## Why This Project Exists
+## Por Que Este Projeto Existe
 
-Small projects are a strong way to build programming fundamentals. This repository helps compare language differences while keeping the logic familiar.
+Projetos pequenos são uma ótima forma de fortalecer fundamentos de programação. Este repositório ajuda a comparar diferenças entre linguagens mantendo a lógica familiar.
 
-## Roadmap
+## Próximos Passos
 
-- Add more languages.
-- Add exponent and percentage operations.
-- Add a menu loop.
-- Add input validation improvements.
-- Add examples of expected terminal output.
+- Adicionar mais linguagens.
+- Adicionar operações de potência e porcentagem.
+- Criar um menu em loop.
+- Melhorar validação de entrada.
+- Adicionar exemplos de saída esperada no terminal.
